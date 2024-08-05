@@ -1,4 +1,3 @@
-
 export default class HolbertonCourse {
   constructor(name, length, students) {
     // Verify types and assign values
